@@ -40,31 +40,31 @@ pip install path/to/file
 
 # Демонстрация работы в Postman
 1. Регистрация пользователя
-<img width="774" height="555" alt="reg" src="https://github.com/user-attachments/assets/a3e15bc5-3efc-4e9c-9e84-aed3802feb18" />
+<img width="750" height="550" alt="reg" src="https://github.com/user-attachments/assets/a3e15bc5-3efc-4e9c-9e84-aed3802feb18" />
 
 2. Вход в систему
-<img width="765" height="554" alt="log" src="https://github.com/user-attachments/assets/67bbcd5b-d13a-48eb-bd8f-4d24e514d2db" />
+<img width="750" height="550" alt="log" src="https://github.com/user-attachments/assets/67bbcd5b-d13a-48eb-bd8f-4d24e514d2db" />
 
 3. Создание географической точки (Москва)
-<img width="759" height="614" alt="1" src="https://github.com/user-attachments/assets/29c79520-7c27-4c49-b47d-c2a664ec7663" />
+<img width="750" height="550" alt="1" src="https://github.com/user-attachments/assets/29c79520-7c27-4c49-b47d-c2a664ec7663" />
 
 3.1 Неавторизованная попытка создать георафическую точку
-<img width="768" height="492" alt="unauth2" src="https://github.com/user-attachments/assets/000bd781-7972-4405-96d0-3197671c90d0" />
+<img width="750" height="550" alt="unauth" src="https://github.com/user-attachments/assets/000bd781-7972-4405-96d0-3197671c90d0" />
 
 4. Создание сообщения в точке
-<img width="759" height="576" alt="3" src="https://github.com/user-attachments/assets/a86e0258-d73a-437b-8764-da41062c9625" />
+<img width="750" height="550" alt="3" src="https://github.com/user-attachments/assets/a86e0258-d73a-437b-8764-da41062c9625" />
 
 5. Получение географических точек в заданном радиусе (100) - отображается только Москва
-<img width="764" height="804" alt="5" src="https://github.com/user-attachments/assets/c54a6d42-e629-4e64-a925-ec9788b53b12" />
+<img width="750" height="800" alt="5" src="https://github.com/user-attachments/assets/c54a6d42-e629-4e64-a925-ec9788b53b12" />
 
 5.1. Получение точек в большем радиусе (1000) - отображаются и Москва и Питер
-<img width="757" height="968" alt="6" src="https://github.com/user-attachments/assets/fff76c0a-10c3-4b2a-a4e0-6aa1011f94cc" />
+<img width="750" height="950" alt="6" src="https://github.com/user-attachments/assets/fff76c0a-10c3-4b2a-a4e0-6aa1011f94cc" />
 
 6. Валидация параметров
-<img width="757" height="649" alt="7" src="https://github.com/user-attachments/assets/d70c37ed-f1e7-410c-a2e2-770330f9fb0e" />
+<img width="750" height="650" alt="7" src="https://github.com/user-attachments/assets/d70c37ed-f1e7-410c-a2e2-770330f9fb0e" />
 
 7. Получение сообщений в заданном радиусе (100) - отображается только сообщение из Москвы
-<img width="770" height="559" alt="8" src="https://github.com/user-attachments/assets/a04185b0-b8b5-44f3-897a-b93599dad628" />
+<img width="750" height="550" alt="8" src="https://github.com/user-attachments/assets/a04185b0-b8b5-44f3-897a-b93599dad628" />
 
 7.1. Получение сообщений в большем радиусе (1000) - отображются сообщения из Москвы и Питера
-<img width="766" height="634" alt="9" src="https://github.com/user-attachments/assets/c9ae349a-875e-40c6-a1a2-2c79077ed258" />
+<img width="750" height="600" alt="9" src="https://github.com/user-attachments/assets/c9ae349a-875e-40c6-a1a2-2c79077ed258" />
